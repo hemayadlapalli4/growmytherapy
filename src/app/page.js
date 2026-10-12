@@ -58,7 +58,7 @@ export default function Home() {
         <div className="order-1 md:order-2">
           <div className="w-full bg-[#2d4a43]/10 rounded-2xl overflow-hidden relative shadow-lg aspect-[4/5]">
             <img 
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=800&q=80" 
+              src="/drmaya.jpg" 
               alt="Dr. Maya Reynolds" 
               className="w-full h-full object-cover object-top transition-transform duration-700 ease-in-out hover:scale-105"
             />
@@ -140,14 +140,14 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto pt-10">
             <div className="overflow-hidden rounded-3xl shadow-lg border border-[#2d4a43]/10">
               <img 
-                src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80" 
+                src="/ofc1.jpg" 
                 alt="Therapy Office Interior Santa Monica" 
                 className="w-full h-80 object-cover transition-transform duration-700 ease-in-out hover:scale-110"
               />
             </div>
             <div className="overflow-hidden rounded-3xl shadow-lg border border-[#2d4a43]/10">
               <img 
-                src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80" 
+                src="/ofc2.jpg" 
                 alt="Counseling Room Setup" 
                 className="w-full h-80 object-cover transition-transform duration-700 ease-in-out hover:scale-110"
               />
